@@ -115,7 +115,7 @@
 
 /* Computer move
  * Idea: I take addresses of all empty cells and put them into a dynamic array.
- * Then chose an index randomly
+ * Then chose an index randomly. Yes yes, this version computer is still stupid :)
 */
     int TTTField::computerMove()
     {
